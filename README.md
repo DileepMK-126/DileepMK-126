@@ -33,7 +33,23 @@ AI Engineer • Climate-Tech Builder • Full Stack Developer
 </p>
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DileepMK-126&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=DileepMK-126&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DileepMK-126&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DileepMK-126&theme=tokyonight&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
 <a href="https://dileepmk.netlify.app/">Portfolio</a> •
 <a href="https://www.linkedin.com/in/dileep-m-k/">LinkedIn</a> •
 <a href="https://github.com/DileepMK-126">GitHub</a>
 </p>
+
+
