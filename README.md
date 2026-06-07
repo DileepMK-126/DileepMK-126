@@ -89,6 +89,11 @@ Planetary Intelligence Platform powered by AI and environmental data.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DileepMK-126&theme=tokyo-night"/>
 </p>
 
+<h1 align="center">🐍 CONTRIBUTION SNAKE</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DileepMK-126/DileepMK-126/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 # 🚀 FEATURED PROJECTS
