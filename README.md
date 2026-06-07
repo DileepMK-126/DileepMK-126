@@ -1,4 +1,4 @@
-````md
+
 <p align="center">
   <img src="./assets/banner.png" width="100%">
 </p>
@@ -125,7 +125,6 @@ AI-assisted productivity platform.
 
 # 🧠 AI ENGINEER ROADMAP
 
-```text
 2024 → Engineering Foundations
 
 2025 → Artificial Intelligence & Software Development
@@ -171,7 +170,6 @@ https://github.com/DileepMK-126
 
 📍 Karnataka, India
 
----
 
 <h3 align="center">
 Code With Curiosity • Build With Intelligence
