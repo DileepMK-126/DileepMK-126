@@ -2,11 +2,17 @@
   <img src="./assets/banner.png" width="100%">
 </p>
 <p align="center">
+
 <img src="https://img.shields.io/badge/AI%20Engineer-00E5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Climate-Tech-00E5FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Climate--Tech-00E5FF?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/EarthPulse%20AI-00E5FF?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Hackathon%20Builder-00E5FF?style=for-the-badge"/>
+
 </p>
+
 <h1 align="center">DILEEP M K</h1>
 
 <h3 align="center">
@@ -43,10 +49,8 @@ AI Engineer • Climate-Tech Builder • Full Stack Developer
 
 [![EarthPulse AI](https://github-readme-stats.vercel.app/api/pin/?username=DileepMK-126&repo=earthpulse-ai&theme=tokyonight)](https://github.com/DileepMK-126/earthpulse-ai)
 
-.github/workflows/snake.yml
 ![Snake Animation](https://raw.githubusercontent.com/DileepMK-126/DileepMK-126/output/github-contribution-grid-snake.svg)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DileepMK-126&theme=tokyonight"/>
 
 ![](https://komarev.com/ghpvc/?username=DileepMK-126&style=for-the-badge&color=blueviolet)
 
