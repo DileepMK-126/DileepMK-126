@@ -30,7 +30,6 @@ Building Intelligence For Planet Earth
   <img src="https://komarev.com/ghpvc/?username=DileepMK-126&style=for-the-badge&color=blueviolet"/>
 </p>
 
----
 
 # 🌍 EARTHPULSE AI COMMAND CENTER
 
@@ -49,7 +48,6 @@ Building Intelligence For Planet Earth
 
 Planetary Intelligence Platform powered by AI and environmental data.
 
----
 
 # ⚔️ TECHNOLOGY ARSENAL
 
@@ -57,7 +55,6 @@ Planetary Intelligence Platform powered by AI and environmental data.
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,mongodb,mysql,git,github,vscode,tailwind" />
 </p>
 
----
 
 # 📊 GITHUB ANALYTICS
 
@@ -71,7 +68,6 @@ Planetary Intelligence Platform powered by AI and environmental data.
 <img src="https://streak-stats.demolab.com?user=DileepMK-126&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
 # 📈 DEVELOPMENT METRICS
 
@@ -79,7 +75,6 @@ Planetary Intelligence Platform powered by AI and environmental data.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DileepMK-126&theme=tokyonight"/>
 </p>
 
----
 
 # 🏆 ACHIEVEMENT WALL
 
@@ -87,7 +82,6 @@ Planetary Intelligence Platform powered by AI and environmental data.
 <img src="https://github-profile-trophy.vercel.app/?username=DileepMK-126&theme=tokyonight&no-frame=true&row=2&column=4"/>
 </p>
 
----
 
 # 📊 CONTRIBUTION ACTIVITY
 
@@ -95,7 +89,7 @@ Planetary Intelligence Platform powered by AI and environmental data.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DileepMK-126&theme=tokyo-night"/>
 </p>
 
----
+
 
 # 🚀 FEATURED PROJECTS
 
@@ -121,7 +115,7 @@ Computer vision based attendance platform.
 
 AI-assisted productivity platform.
 
----
+
 
 # 🧠 AI ENGINEER ROADMAP
 
@@ -134,9 +128,7 @@ AI-assisted productivity platform.
 2027 → Large Scale AI Systems
 
 2030 → Global Climate Intelligence Platform
-````
 
----
 
 # 🎯 2026 GOALS
 
@@ -152,7 +144,7 @@ AI-assisted productivity platform.
 
 ⬜ Build Global Climate Intelligence Platform
 
----
+
 
 # 📡 CONNECT WITH ME
 
