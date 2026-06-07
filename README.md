@@ -1,18 +1,18 @@
 <p align="center">
   <img src="./assets/banner.png" width="100%">
 </p>
-
-<h1 align="center">DILEEP M K</h1>
-
-<h3 align="center">
-AI Engineer • Climate-Tech Builder • Full Stack Developer
-</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/AI%20Engineer-00E5FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Climate-Tech-00E5FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/EarthPulse%20AI-00E5FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hackathon%20Builder-00E5FF?style=for-the-badge"/>
 </p>
+<h1 align="center">DILEEP M K</h1>
+
+<h3 align="center">
+AI Engineer • Climate-Tech Builder • Full Stack Developer
+</h3>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DileepMK-126&theme=tokyonight"/>
 
 <p align="center">
