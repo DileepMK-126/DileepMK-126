@@ -15,9 +15,7 @@ AI Engineer • Climate-Tech Builder • Full Stack Developer
 <a href="https://github.com/DileepMK-126">GitHub</a>
 </p>
 
-<p align="center">
-  <img src="./assets/banner.png" width="100%">
-</p>
+
 
 <h1 align="center">DILEEP M K</h1>
 
